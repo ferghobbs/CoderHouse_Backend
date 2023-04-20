@@ -43,7 +43,6 @@ export class Producto {
                 prodEn = prod;
             }
         }
-        this.productos.forEach()
         if (!prodEn) {
             console.log("Error no se encontro el ID")
         }
